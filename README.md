@@ -1,6 +1,8 @@
 
 # Social Media Engagement Analytics Using Python
 
+Description: Analyzed social media engagement trends by content type, category, country, age group, and account verification status using Python.
+
 Analysis of 5,000 social media posts: data cleaning, exploration, statistics,
 16 visualizations, and insights.
 
